@@ -10,6 +10,8 @@ Qrcode_generator/
 ├── script.js         # JavaScript logic — handles input, QR code generation
 ├── README.md         # Project documentation (this file)
 └── assets/           # (Optional) Images, icons, or other static assets
+
+
 git clone https://github.com/dhevprashath/Qrcode_generator.git
 
 cd Qrcode_generator
